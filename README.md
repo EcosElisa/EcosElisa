@@ -25,12 +25,12 @@
   <img align="center" alt="Ecos-DJango" height="30" width="65" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" alt="Ecos-AWS" height="30" width="80" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
- ![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
     
 ##
 
 <div>
   <a href="https://github.com/EcosElisa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EcosElisa&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcosElisa&layout=compact&langs_count=100&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcosElisa&layout=compact&langs_count=100&theme=bear"/><br>
+ ![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
 </div>
