@@ -30,6 +30,5 @@
 <div>
   <a href="https://github.com/EcosElisa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EcosElisa&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcosElisa&layout=compact&langs_count=100&theme=bear"/><br>
-  ![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcosElisa&layout=compact&langs_count=100&theme=bear"/>
 </div>
