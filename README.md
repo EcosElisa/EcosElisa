@@ -35,5 +35,5 @@
 </div>
 
 <div align="center">
-	![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/main/README.md)
+	![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
 </div>
