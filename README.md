@@ -5,7 +5,7 @@
 </div>
 
 ##
-### About me...
+### 👩‍💻 About me...
 - 👩‍🎓 Student in Software Engineer and System analysis and development.
 - 😄 Pronouns: She/Her.
 - 🚀 My knowledge 
