@@ -9,10 +9,8 @@
 </div>
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:ecos110400@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/elisa-sobrinho-ecos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 <div>
@@ -21,9 +19,12 @@
     		<tr>
        			<td style="border: none;">
             			<p align="left">
-                			- 👩‍🎓 Student in Software Engineer and System analysis and development. <br>
-               				- 😄 Pronouns: She/Her.<br>
-                			- 💡 Future DataBase Analyst!<br>
+                			* 👩🏻‍🦱 Elisa Campos de Oliveira Sobrinho aka Ecos. <br>
+					* 🇧🇷 Brazilian! <br>
+					* 😄 Pronouns: She/Her.<br>
+					* 🎓 Student at Impacta Tecnologia and 42SP. <br>
+					* 👩‍🎓 Student in Software Engineer and System analysis and development. <br>
+                			* 💡 Future DataBase Analyst!<br>
             			</p>
         		</td>
         		<td "border: none;">
@@ -39,18 +40,8 @@
 	</div>
 </div>
 
-	
- 
- 	<p align="right">
-  	<img src="https://github-profile-trophy.vercel.app/?username=ecoselisa&theme=bear&row=2&no-bg=true&column=3&margin-w=15&margin-h=15title_color=9E106F&icon_color=0EA8EA&text_color=F9E5BB" />
-	</p>
-	<p align left>
-		- 👩‍🎓 Student in Software Engineer and System analysis and development. <br>
-		- 😄 Pronouns: She/Her.<br>
-		- 💡 Future DataBase Analyst!<br>
-	</p>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ecoselisa&bg_color=0d1117&color=9E106F&line=F9E5BB&point=0EA8EA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 
@@ -92,13 +83,6 @@
 	</p>
 </div>
 
-<div>
-	<h2 align="left">📱Connect with me</h2>
-	<p align="left">
-	<a href="https://linkedin.com/in/www.linkedin.com/in/elisa-sobrinho-ecos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elisa-sobrinho-ecos" height="30" width="40" /></a>
-</p>
-	
-</div>
-
 ![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E106F&height=120&section=footer"/>
