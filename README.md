@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E106F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac6c8c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9E106F&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;My+name+is+Elisa+Sobrinho+aka+Ecos;I'm+23+years+old;I'm+from+Brazil;I'm+a+Engineer+Software;and+a+future+DataBase+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac6c8c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;My+name+is+Elisa+Sobrinho+aka+Ecos;I'm+23+years+old;I'm+from+Brazil;I'm+a+Engineer+Software;and+a+future+DataBase+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -35,12 +35,12 @@
     		</tr>
 	</table>
 	<div align="center">  
-  		<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ecoselisa&show_icons=true&count_private=true&hide_border=true&title_color=9E106F&icon_color=0EA8EA&text_color=F9E5BB&bg_color=0d1117" alt="Elisa Sobrinho github stats" /> 
-		<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoselisa&layout=compact&hide_border=true&title_color=9E106F&text_color=F9E5BB&bg_color=0d1117" />
+  		<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ecoselisa&show_icons=true&count_private=true&hide_border=true&title_color=ac6c8c&icon_color=0EA8EA&text_color=F9E5BB&bg_color=0d1117" alt="Elisa Sobrinho github stats" /> 
+		<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoselisa&layout=compact&hide_border=true&title_color=ac6c8c&text_color=F9E5BB&bg_color=0d1117" />
 	</div>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ecoselisa&bg_color=0d1117&color=9E106F&line=F9E5BB&point=0EA8EA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ecoselisa&bg_color=0d1117&color=ac6c8c&line=F9E5BB&point=0EA8EA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -83,6 +83,4 @@
 	</p>
 </div>
 
-![Snake animation](https://github.com/EcosElisa/EcosElisa/blob/output/github-contribution-grid-snake.svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E106F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac6c8c&height=120&section=footer"/>
