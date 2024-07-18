@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac6c8c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac6c8c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;My+name+is+Elisa+Sobrinho+aka+Ecos;I'm+23+years+old;I'm+from+Brazil;I'm+a+Engineer+Software;and+a+future+DataBase+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac6c8c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;My+name+is+Elisa+Sobrinho+aka+Ecos;I'm+24+years+old;I'm+from+Brazil;I'm+a+Engineer+Software;and+a+future+DataBase+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -22,7 +22,7 @@
                 			* 👩🏻‍🦱 Elisa Campos de Oliveira Sobrinho aka Ecos. <br>
 					* 🇧🇷 Brazilian! <br>
 					* 😄 Pronouns: She/Her.<br>
-					* 🎓 Student at Impacta Tecnologia and 42SP. <br>
+					* 🎓 Student at Impacta Tecnologia. <br>
 					* 👩‍🎓 Student in Software Engineer and System analysis and development. <br>
                 			* 💡 Future DataBase Analyst!<br>
             			</p>
@@ -61,7 +61,9 @@
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+		<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <br>
   <img align="center" alt="Ecos-Shell" height="30" width="80" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img align="center" alt="Ecos-Excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img align="center" alt="Ecos-PowerPoint" height="30" width="120" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
@@ -77,10 +79,7 @@
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 		<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-		<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-	</p>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac6c8c&height=120&section=footer"/>
